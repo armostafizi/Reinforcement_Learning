@@ -1,4 +1,0 @@
-﻿Redo part III of homework 4 but this time use the opposite type of
-RL approach (model based vs. model free). That is, if you
-implemented a model-free approach for HW4, then implement a
-model-based approach for HW5, and vice versa.
